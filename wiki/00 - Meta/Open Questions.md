@@ -53,10 +53,10 @@ Use this note for unknowns that affect decisions. Do not guess these in strategy
 - **Owner:** Venue research owner, TBD.
 - **Opened:** 2026-07-01
 - **Why it matters:** Outreach, partnership research, public mentions, and event planning.
-- **Current best answer:** Founder prompt mentioned Billy Boys, Mocha Club in "Water Clue", and Lucky Rodrigo's. "Water Clue" may mean Waterkloof; verify before use.
-- **Evidence needed:** Official venue names, addresses, contact paths, existing DJ/event policies.
+- **Current best answer:** First desktop research verified several details: Moka Social Club is at 378 Milner St, Waterkloof, Pretoria; Billy Boys & Co is at Forest Walk, 27 Maroelana St, Hazelwood, Pretoria based on its official public site bundle; Lucky Rodrigo Restaurant & Bar is at c/o The Hillside Street and Alpine Way, Lynnwood, Pretoria. These are venue identity/location facts only, not partnership or event-availability facts.
+- **Evidence needed:** Direct venue confirmation of contact owners, existing DJ/event policies, filming permission, sound constraints, costs, and availability.
 - **Affected notes:** [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]]
-- **Status:** Open
+- **Status:** Partially answered; still open for event-specific details.
 
 ## OQ-006 - What music licensing and event compliance requirements apply?
 
@@ -126,4 +126,34 @@ Use this note for unknowns that affect decisions. Do not guess these in strategy
 - **Current best answer:** Connor mentioned Google Search Console and optional PostHog; no final analytics decision or account access is recorded.
 - **Evidence needed:** Selected analytics tools, account/project owners, privacy/consent decision, and launch validation steps.
 - **Affected notes:** [[10 - Product & Engineering/Website Plan|Website Plan]], [[10 - Product & Engineering/Public Website and Waitlist Blueprint|Public Website and Waitlist Blueprint]]
+- **Status:** Open
+
+## OQ-013 - Is House 22 currently operating and contactable?
+
+- **Owner:** Venue research owner, TBD.
+- **Opened:** 2026-07-01
+- **Why it matters:** Public historical sources position House 22 as important to Pretoria deep-house history, but current operating status affects whether it belongs in the active venue pipeline or only the reference map.
+- **Current best answer:** Unknown. First research found historical/directory evidence, but no current official operating confirmation.
+- **Evidence needed:** Current official website/social account, current booking contact, current address, recent events, and direct confirmation from the venue or credible operator.
+- **Affected notes:** [[06 - Events & Venues/House 22|House 22]], [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]], [[09 - Research & Intelligence/Pretoria House Music Market|Pretoria House Music Market]]
+- **Status:** Open
+
+## OQ-014 - Which compliance responsibilities sit with House Affairs versus the venue for a first DJ night?
+
+- **Owner:** Legal/compliance owner, TBD.
+- **Opened:** 2026-07-01
+- **Why it matters:** SAMRO, SAMPRA, City of Tshwane, YouTube, venue contracts, filming consent, and ticketing terms can attach to different parties depending on whether House Affairs is a DJ, promoter, venue hirer, content publisher, or event owner.
+- **Current best answer:** Unknown. Official sources confirm licensing/compliance issues exist, but not the exact responsibility split for House Affairs' first event structure.
+- **Evidence needed:** Event format decision, venue licence confirmation, SAMRO/SAMPRA guidance for the specific setup, Tshwane applicability, written venue terms, filming consent plan, and professional advice if commitments become material.
+- **Affected notes:** [[08 - Finance & Legal/Legal and Compliance|Legal and Compliance]], [[06 - Events & Venues/Event Strategy|Event Strategy]], [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]]
+- **Status:** Open
+
+## OQ-015 - Which first venue outreach format is approved?
+
+- **Owner:** Connor / founding team.
+- **Opened:** 2026-07-01
+- **Why it matters:** Outreach wording and target venue choice depend on whether House Affairs is asking for a filmed session, a low-risk DJ slot, a recurring night, or a ticketed event.
+- **Current best answer:** Research recommends a filmed-session ask for Moka Social Club and a low-risk venue-hosted DJ-slot ask for Lucky Rodrigo or Billy Boys, but this has not been approved by the founding team.
+- **Evidence needed:** Founder/team decision on first outreach objective, owner, proof links, date window, and what House Affairs is prepared to provide.
+- **Affected notes:** [[06 - Events & Venues/Moka Social Club|Moka Social Club]], [[06 - Events & Venues/Lucky Rodrigo|Lucky Rodrigo]], [[06 - Events & Venues/Billy Boys & Co|Billy Boys & Co]], [[06 - Events & Venues/Partnership Outreach|Partnership Outreach]]
 - **Status:** Open

@@ -56,3 +56,19 @@ Use this for important communication that affects direction, scope, business, co
 - **Tensions raised:** The website should move fast and look excellent, but production details, platform access, privacy requirements, and launch assets are not yet verified.
 - **Affected workstreams:** [[10 - Product & Engineering/Website Plan]], [[10 - Product & Engineering/Public Website and Waitlist Blueprint]], [[10 - Product & Engineering/Technical Architecture]], [[03 - Audience & Community/Community Strategy]]
 - **Follow-up owner:** Connor / technical owner TBD.
+
+## 2026-07-01 - Market research sprint implementation request
+
+- **Source:** Codex prompt.
+- **Participants:** Connor Cress and Codex.
+- **Summary:** Connor asked Codex to implement the planned House Affairs market research sprint: Pretoria-first, desktop-only research into venues, gigs, local scene mechanics, comparable Gauteng references, compliance, and wiki updates.
+- **Key points:**
+  - Prioritize Pretoria venues and gig opportunities first.
+  - Use WHYLY, Truth JHB, TOYTOY, Bad Manors, and Sandton/JHB examples to extract mechanics rather than copy positioning.
+  - Do not contact venues yet.
+  - Create a decision dashboard, individual venue/reference notes, source trail, open questions, and next actions.
+- **Decisions created:** [[Joint Decisions Log#2026-07-01 - Run Pretoria-first desktop venue and scene research before outreach]]
+- **Open questions created:** [[Open Questions#OQ-013 - Is House 22 currently operating and contactable?|OQ-013]], [[Open Questions#OQ-014 - Which compliance responsibilities sit with House Affairs versus the venue for a first DJ night?|OQ-014]], [[Open Questions#OQ-015 - Which first venue outreach format is approved?|OQ-015]]
+- **Tensions raised:** Public evidence can guide strategy, but venue fit, compliance responsibility, attendance, and economics remain unproven until direct verification.
+- **Affected workstreams:** [[06 - Events & Venues/Venue Pipeline]], [[09 - Research & Intelligence/Pretoria House Music Market]], [[09 - Research & Intelligence/Competitor and Inspiration Map]], [[08 - Finance & Legal/Legal and Compliance]]
+- **Follow-up owner:** Connor / venue research owner TBD.

@@ -49,3 +49,17 @@ Append meaningful decisions here. Do not edit prior entries except to add a date
 - **Reversibility:** Easy.
 - **Affected notes:** [[10 - Product & Engineering/Website Plan]], [[10 - Product & Engineering/Public Website and Waitlist Blueprint]], [[10 - Product & Engineering/Technical Architecture]], [[10 - Product & Engineering/Security and Privacy]], [[10 - Product & Engineering/Data Model]], [[03 - Audience & Community/Community Strategy]]
 - **Validation path:** Before coding, re-read the blueprint, verify official docs and platform access for the chosen stack/providers, and confirm the open questions linked from the website plan.
+
+## 2026-07-01 - Run Pretoria-first desktop venue and scene research before outreach
+
+- **Decided by:** Connor requested; captured by Codex.
+- **Decision:** House Affairs will use a Pretoria-first, desktop-only research sprint to populate the wiki before venue outreach. Research should prioritize Pretoria venue prospects, then use JHB/Sandton references as learning models.
+- **Founder/team positions:** Connor explicitly requested deep market and venue research around Pretoria venues, WHYLY, Truth, Bad Manors, TOYTOY, Moka Social Club, Billy Boys, Lucky Rodrigo's, and comparable systems. Other team members were not directly consulted in this source.
+- **Alignment state:** Delegated/requested by Connor for this repository. Team consensus is not independently recorded.
+- **Alternatives considered:** Contact venues immediately; not chosen because the sprint should first fill wiki gaps with evidence and avoid unsupported claims.
+- **Reasoning:** House Affairs needs a sourced venue pipeline, scene reference map, compliance risk map, and next actions before making promises to venues or publishing partnership language.
+- **Evidence:** [[Correspondence Log#2026-07-01 - Market research sprint implementation request]], [[09 - Research & Intelligence/Pretoria Venue and Scene Research Sprint - 2026-07-01|Pretoria Venue and Scene Research Sprint - 2026-07-01]]
+- **Tensions or trade-offs:** Desktop research reduces guessing, but public sources cannot prove venue appetite, deal terms, attendance, or compliance responsibility for a specific event.
+- **Reversibility:** Easy.
+- **Affected notes:** [[06 - Events & Venues/Venue Pipeline]], [[09 - Research & Intelligence/Pretoria House Music Market]], [[09 - Research & Intelligence/Competitor and Inspiration Map]], [[08 - Finance & Legal/Legal and Compliance]]
+- **Validation path:** Re-open each source recorded in [[Source Materials]], verify no venue partnership is implied, and resolve outreach/compliance open questions before contacting venues.

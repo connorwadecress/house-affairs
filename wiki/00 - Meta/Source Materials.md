@@ -71,3 +71,38 @@ This is the evidence index. Record what each source proves and what it does not 
 - **Used for:** [[10 - Product & Engineering/Public Website and Waitlist Blueprint|Public Website and Waitlist Blueprint]], [[10 - Product & Engineering/Technical Architecture|Technical Architecture]], [[10 - Product & Engineering/Security and Privacy|Security and Privacy]], [[10 - Product & Engineering/Data Model|Data Model]]
 - **What it proves:** The desired reusable waitlist architecture pattern includes a public API boundary, waitlist feature boundary, shared notification abstraction, Resend infrastructure behind server-side contracts, persistence, validation, duplicate handling, mock local/test email delivery, and deployment smoke tests.
 - **What it does not prove:** House Affairs production stack, folder structure, route names, database provider, secrets, sender domain, API base URL, CORS origins, deployment configuration, or final data schema.
+
+## 2026-07-01 - Pretoria Venue and Scene Research Sprint
+
+- **Type:** Desktop public-source research.
+- **Location:** [[09 - Research & Intelligence/Pretoria Venue and Scene Research Sprint - 2026-07-01|Pretoria Venue and Scene Research Sprint - 2026-07-01]]
+- **Reliability:** Mixed public-source research. Official venue/compliance/platform pages are strongest; ticketing pages are strong for listed event details; third-party directories are secondary; Instagram/search snippets are discovery evidence only.
+- **Used for:** [[06 - Events & Venues/Venue Pipeline]], [[09 - Research & Intelligence/Pretoria House Music Market]], [[09 - Research & Intelligence/Competitor and Inspiration Map]], [[08 - Finance & Legal/Legal and Compliance]]
+- **What it proves:** Publicly visible venue identities/locations/contact paths where official pages were available; comparable event packaging and rules from ticketing/venue pages; official compliance topics that must be resolved before public events or uploads.
+- **What it does not prove:** Venue willingness to work with House Affairs, venue availability, private contacts, event profitability, actual attendance, follower counts beyond public snippets, music licence coverage for a specific event, or team approval.
+- **Retrieval date:** 2026-07-01.
+
+### Venue and Prospect Sources
+
+- **Moka Social Club official website:** https://www.mokasocialclub.co.za/ and https://www.mokasocialclub.co.za/pages/contact. Proves public address, website positioning, events/contact navigation, and community/coffee framing. Does not prove DJ/event fit or permission.
+- **Billy Boys & Co official website:** https://billyboys.co.za/. Proves official name, Pretoria/Hazelwood food/good-vibes positioning, and public bundled site data with address/contact details. Does not prove DJ/event fit or permission.
+- **Lucky Rodrigo official website:** https://www.luckyrodrigo.co.za/ and https://www.luckyrodrigo.co.za/contact/. Proves official restaurant/bar identity, Lynnwood location, phone, trading hours, and event page direction to Facebook. Does not prove house/DJ fit or permission.
+- **Railways Cafe official website:** https://www.railwayscafe.co.za/. Proves live-music/pizza/good-vibes positioning, ticketing link, functions, and booking contacts. Does not prove House Affairs genre fit.
+- **House 22 Music In Africa directory:** https://www.musicinafrica.net/directory/house-22. Proves historical/directory claim that House 22 is significant to Pretoria deep house. Does not prove current operations.
+
+### Reference Scene Sources
+
+- **WHYLY Howler pages:** https://www.howler.co.za/events/whyly-feat-weston-and-engine-897e and https://www.howler.co.za/events/909-rave-ft-yoze-af86. Prove public event packaging, organiser name, venue/date/lineup details, and WHYLY's own event-page description. Do not prove attendance or profitability.
+- **WHYLY Quicket page:** https://www.quicket.co.za/events/241841-whyly-showcase/. Proves external showcase framing and named artists for that event. Does not prove current Pretoria operations.
+- **Truth JHB official pages:** https://www.truthjhb.co.za/Event, https://www.truthjhb.co.za/Event/LocationPopup?locationId=1, https://www.truthjhb.co.za/Terms. Prove public event calendar, location, ticketing, and policy/terms language. Do not prove applicability to House Affairs.
+- **TOYTOY sources:** https://ra.co/events/2477398, https://ra.co/events/2429830, and https://toytoymusic.bandcamp.com/. Prove public event details and TOYTOY's weekly residency/music identity as visible in those sources. Do not prove private operating model.
+- **Bad Manors sources:** https://www.inyourpocket.com/southafrica/johannesburg/venues/bad-manors, https://www.quicket.co.za/events/370739-the-temple-hard-dark-industrial-techno/, and https://ra.co/events/2340654. Prove public venue/address/genre/event examples. InYourPocket is secondary.
+- **Sandton/JHB house event sources:** https://www.howler.co.za/events/sandton-house-club-a191, https://www.howler.co.za/events/house-your-sunday-sandton-1773, https://freshhouseflava.com/, and https://maracana.co.za/events/. Prove public event formats, venue/event packaging, and example rules. Do not prove Pretoria demand.
+- **Boiler Room Pretoria sources:** https://boilerroom.tv/city/pretoria/ and https://boilerroom.tv/session/true-music-pretoria/. Prove Boiler Room's public Pretoria event/set archive and editorial framing of Pretoria's house/electronic significance. Does not prove House Affairs demand.
+
+### Compliance Sources
+
+- **SAMRO official pages:** https://www.samro.org.za/ and https://www.samro.org.za/user. Prove SAMRO's public guidance around music users and performing-rights licensing. Does not determine House Affairs' exact licence obligations for a specific event.
+- **SAMPRA official FAQ:** https://compliance.sampra.org.za/FAQS/. Proves SAMPRA's public guidance around sound recording/music public-performance licensing and distinction from SAMRO. Does not determine a specific event's licence holder.
+- **YouTube official copyright pages:** https://www.youtube.com/howyoutubeworks/copyright/, https://support.google.com/youtube/answer/2797370, and https://support.google.com/youtube/answer/6013276. Prove YouTube's Content ID/copyright-claim mechanics. Do not guarantee any House Affairs upload outcome.
+- **City of Tshwane event compliance pages:** https://www.tshwane.gov.za/?page_id=1293 and https://www.tshwane.gov.za/?page_id=7717. Prove public City event compliance/JOC and event licence guidance retrieved by direct page fetch on 2026-07-01. Do not determine whether a specific small venue-hosted DJ night requires JOC/event licence handling.

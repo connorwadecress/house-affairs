@@ -22,11 +22,11 @@ status: active
 
 ## Current Status
 
-**Phase:** Foundation, content intelligence, and operating-memory scaffold.
+**Phase:** Foundation, content intelligence, and Pretoria-first venue research.
 
 **Last updated:** 2026-07-01
 
-**Current operating priority:** Build a reliable wiki and planning system, then use public content feedback and metrics to improve sessions, research, venues, partnerships, events, and agentic operations.
+**Current operating priority:** Turn the first Pretoria venue and scene research sprint into a practical next-action plan: decide the first venue ask, prepare outreach material, and close compliance unknowns before any booking or public claim.
 
 **Known source facts:**
 
@@ -37,6 +37,9 @@ status: active
 - Founder statement says the business is registered and the domain `house-affairs.org` is owned; registry/domain proof is not yet recorded.
 - Provided Instagram screenshot shows `houseaffairs.wav`, 2 posts, 27 followers, and a link to `youtube.com/@house.affairs` as of the screenshot.
 - Public YouTube snapshot on 2026-07-01 confirmed channel URL `https://www.youtube.com/@house.affairs`, channel ID `UCG7qrr_JjGbb8rN_tl38Zdg`, 27 subscribers, 3 visible videos, and 23 extracted public comments.
+- First-pass desktop research on 2026-07-01 verified public venue/source pages for Moka Social Club, Billy Boys & Co, Lucky Rodrigo, WHYLY, Truth JHB, TOYTOY, Bad Manors, Railways Cafe, House 22, Howler/Quicket/RA event examples, Boiler Room Pretoria, SAMRO, SAMPRA, YouTube copyright, and City of Tshwane event pages.
+- Moka Social Club, Billy Boys & Co, and Lucky Rodrigo have official public web presences and Pretoria addresses recorded in the venue notes, but no venue agreement, DJ booking path, pricing, capacity, filming permission, or House Affairs relationship has been verified.
+- WHYLY has sourced evidence as a Pretoria/Gauteng dance music reference model, not a confirmed House Affairs partner.
 
 ---
 
@@ -83,9 +86,19 @@ status: active
 - [[04 - Content & Media/Reference Creators|Reference Creators]] - inspirations to research.
 - [[03 - Audience & Community/Public Feedback Log|Public Feedback Log]] - public comments, requests, and audience signals.
 - [[06 - Events & Venues/Event Strategy|Event Strategy]] - progression from filmed sets to ticketed events.
-- [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]] - Billy Boys, Mocha Club, Lucky Rodrigo's, and future venues to verify.
+- [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]] - first-pass Pretoria venue shortlist, scoring criteria, and next actions.
+- [[06 - Events & Venues/Moka Social Club|Moka Social Club]] - founder-mentioned filmed-session prospect requiring direct verification.
+- [[06 - Events & Venues/Billy Boys & Co|Billy Boys & Co]] - founder-mentioned hospitality gig prospect requiring direct verification.
+- [[06 - Events & Venues/Lucky Rodrigo|Lucky Rodrigo]] - founder-mentioned hospitality gig prospect requiring direct verification.
 - [[07 - Operations/Agentic Operations|Agentic Operations]] - AI and automation operating model.
 - [[07 - Operations/Task Board|Task Board]] - active tasks and next actions.
+
+### Research and Intelligence
+
+- [[09 - Research & Intelligence/Pretoria Venue and Scene Research Sprint - 2026-07-01|Pretoria Venue and Scene Research Sprint - 2026-07-01]] - master research dashboard and recommendations.
+- [[09 - Research & Intelligence/Pretoria House Music Market|Pretoria House Music Market]] - current market thesis and evidence limits.
+- [[09 - Research & Intelligence/Competitor and Inspiration Map|Competitor and Inspiration Map]] - reference-scene lessons from WHYLY, Truth JHB, TOYTOY, Bad Manors, Sandton examples, and Pretoria references.
+- [[09 - Research & Intelligence/WHYLY|WHYLY]] - Pretoria/Gauteng dance music reference model.
 
 ### Product, Engineering, Finance, Legal, People
 
@@ -100,12 +113,13 @@ status: active
 
 ## Immediate Next Steps
 
-1. Verify business registration details and domain ownership, then update [[00 - Meta/Source Materials|Source Materials]].
-2. Investigate and improve YouTube audio quality after public feedback that Session 002 sounded muffled/mono.
-3. Confirm official handles, platform access owners, and analytics access for Instagram, YouTube, and domain.
-4. Resolve first website prerequisites: domain/DNS access, hosting/stack/database decision, waitlist privacy, analytics choice, and approved launch assets/copy.
-5. Start a venue research pass for Pretoria house/electronic-friendly locations.
-6. Establish a recurring YouTube/public-feedback capture cadence after each release.
+1. Decide the first venue ask: filmed session, quiet-time pilot, DJ night, or reference-only research.
+2. Draft a one-page venue brief and call checklist using the sourced venue notes, without claiming agreements, pricing, audience size, or permissions.
+3. Run a compliance responsibility mini-sprint for music rights, event licensing, filming consent, venue insurance/safety, and ticketing responsibilities.
+4. Verify House 22's current operating status and decide whether it belongs in the active Pretoria venue pipeline or remains reference-only.
+5. Verify business registration details and domain ownership, then update [[00 - Meta/Source Materials|Source Materials]].
+6. Investigate and improve YouTube audio quality after public feedback that Session 002 sounded muffled/mono.
+7. Establish a recurring YouTube/public-feedback capture cadence after each release.
 
 ---
 

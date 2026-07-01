@@ -1,20 +1,37 @@
 ---
 created: 2026-07-01
 type: venues
-status: draft
+status: active
 ---
 
 # Venue Pipeline
 
 Venues are prospects until official details, contacts, fit, and availability are verified.
 
-## Founder-Mentioned Venues
+## Current Shortlist
 
-| Venue | Source wording | Verification status | Notes |
-|---|---|---|---|
-| Billy Boys | "Billy Boys" | Unverified | Research official name, location, contact, event/DJ fit. |
-| Mocha Club | "Mocha Club in Water Clue" | Unverified | "Water Clue" may mean Waterkloof; verify exact venue and location. |
-| Lucky Rodrigo's | "Lucky Rodrigo's" | Unverified | Research official name, location, contact, event/DJ fit. |
+| Venue | Source wording | Research status | Classification | Current read | Next action |
+|---|---|---|---|---|---|
+| [[Moka Social Club]] | Moka Social Club / "Mocha Club in Water Clue" | Researched | Filmed-session prospect | Official site confirms Waterkloof address and community/coffee/events positioning; DJ fit unproven. | Verify direct manager contact, filming permission, sound limits, and pre-open/closed-hours possibility. |
+| [[Lucky Rodrigo]] | "Lucky Rodrigo's" | Researched | Quick-win gig prospect | Official site confirms Lynnwood restaurant/bar, late trading, phone reservations, and events via Facebook; house/DJ fit unproven. | Call to identify events/music decision-maker and ask about low-risk DJ slot. |
+| [[Billy Boys & Co]] | "Billy Boys Hazelwood" | Researched | Needs verification | Official site confirms Pretoria/Hazelwood food/good-vibes positioning and address/contact in public bundle; DJ/event appetite unproven. | Verify whether they host or want DJs, sound setup, and event constraints. |
+| [[Railways Cafe]] | Research-added | Researched | Needs verification | Official site confirms live music, ticketing, functions, and booking contacts; genre fit may be broader than house. | Verify whether they host house/electronic DJ nights. |
+| [[House 22]] | Research-added | Parked pending current verification | Reference model | Public history strongly connects House 22 to Pretoria deep house; current operations not verified. | Verify whether House 22 is currently operating before active outreach. |
+
+## Research References
+
+- [[09 - Research & Intelligence/Pretoria Venue and Scene Research Sprint - 2026-07-01|Pretoria Venue and Scene Research Sprint - 2026-07-01]]
+- [[09 - Research & Intelligence/WHYLY|WHYLY]]
+- [[09 - Research & Intelligence/Truth JHB|Truth JHB]]
+- [[09 - Research & Intelligence/TOYTOY|TOYTOY]]
+- [[09 - Research & Intelligence/Bad Manors|Bad Manors]]
+- [[09 - Research & Intelligence/Sandton House Event Patterns|Sandton House Event Patterns]]
+
+## Founder-Mentioned Venue Verification
+
+- **Moka Social Club:** "Water Clue" is now best treated as Waterkloof based on the official Moka address at 378 Milner St, Waterkloof, Pretoria. Public copy should still use only the verified name and address.
+- **Billy Boys:** Best verified name from official site is Billy Boys & Co. Location evidence points to Forest Walk, 27 Maroelana St, Hazelwood, Pretoria.
+- **Lucky Rodrigo's:** Best verified name from official site is Lucky Rodrigo Restaurant & Bar. Location evidence points to Lynnwood, Pretoria.
 
 ## Pipeline Stages
 
@@ -42,6 +59,19 @@ Venues are prospects until official details, contacts, fit, and availability are
 - Existing event calendar.
 - Cost or revenue-share model.
 - Management responsiveness.
+
+## Research Sprint Scoring Criteria
+
+Use these criteria before ranking venues for outreach:
+
+- Music fit.
+- Audience fit.
+- Location/logistics.
+- DJ/sound/filming suitability.
+- Evidence of event demand.
+- Approachability.
+- Economics.
+- Compliance risk.
 
 ## Template
 
