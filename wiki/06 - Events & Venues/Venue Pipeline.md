@@ -12,7 +12,7 @@ Venues are prospects until official details, contacts, fit, and availability are
 
 | Venue | Source wording | Research status | Classification | Current read | Next action |
 |---|---|---|---|---|---|
-| [[Moka Social Club]] | Moka Social Club / "Mocha Club in Water Clue" | Researched | Filmed-session prospect | Official site confirms Waterkloof address and community/coffee/events positioning; DJ fit unproven. | Verify direct manager contact, filming permission, sound limits, and pre-open/closed-hours possibility. |
+| [[Moka Social Club]] | Moka Social Club / "Mocha Club in Water Clue" | Researched | Filmed-session prospect | Official site confirms Waterkloof address/community positioning; Connor reports seeing running-event and daytime live-DJ activity. Venue approval, filming permission, terms, and setup remain unverified. | Save durable DJ/event evidence, then verify direct manager contact, filming permission, sound limits, and pre-open/closed-hours possibility. |
 | [[Lucky Rodrigo]] | "Lucky Rodrigo's" | Researched | Quick-win gig prospect | Official site confirms Lynnwood restaurant/bar, late trading, phone reservations, and events via Facebook; house/DJ fit unproven. | Call to identify events/music decision-maker and ask about low-risk DJ slot. |
 | [[Billy Boys & Co]] | "Billy Boys Hazelwood" | Researched | Needs verification | Official site confirms Pretoria/Hazelwood food/good-vibes positioning and address/contact in public bundle; DJ/event appetite unproven. | Verify whether they host or want DJs, sound setup, and event constraints. |
 | [[Railways Cafe]] | Research-added | Researched | Needs verification | Official site confirms live music, ticketing, functions, and booking contacts; genre fit may be broader than house. | Verify whether they host house/electronic DJ nights. |
@@ -29,7 +29,7 @@ Venues are prospects until official details, contacts, fit, and availability are
 
 ## Founder-Mentioned Venue Verification
 
-- **Moka Social Club:** "Water Clue" is now best treated as Waterkloof based on the official Moka address at 378 Milner St, Waterkloof, Pretoria. Public copy should still use only the verified name and address.
+- **Moka Social Club:** "Water Clue" is now best treated as Waterkloof based on the official Moka address at 378 Milner St, Waterkloof, Pretoria. Connor has also reported seeing Moka Instagram stories with running-event afterpoints and daytime live DJs. Public copy should still use only verified name/address and avoid event/DJ claims until screenshots or venue confirmation are saved.
 - **Billy Boys:** Best verified name from official site is Billy Boys & Co. Location evidence points to Forest Walk, 27 Maroelana St, Hazelwood, Pretoria.
 - **Lucky Rodrigo's:** Best verified name from official site is Lucky Rodrigo Restaurant & Bar. Location evidence points to Lynnwood, Pretoria.
 

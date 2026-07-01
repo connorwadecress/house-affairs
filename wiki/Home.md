@@ -39,6 +39,7 @@ status: active
 - Public YouTube snapshot on 2026-07-01 confirmed channel URL `https://www.youtube.com/@house.affairs`, channel ID `UCG7qrr_JjGbb8rN_tl38Zdg`, 27 subscribers, 3 visible videos, and 23 extracted public comments.
 - First-pass desktop research on 2026-07-01 verified public venue/source pages for Moka Social Club, Billy Boys & Co, Lucky Rodrigo, WHYLY, Truth JHB, TOYTOY, Bad Manors, Railways Cafe, House 22, Howler/Quicket/RA event examples, Boiler Room Pretoria, SAMRO, SAMPRA, YouTube copyright, and City of Tshwane event pages.
 - Moka Social Club, Billy Boys & Co, and Lucky Rodrigo have official public web presences and Pretoria addresses recorded in the venue notes, but no venue agreement, DJ booking path, pricing, capacity, filming permission, or House Affairs relationship has been verified.
+- Connor reports having seen Moka Social Club Instagram stories with running-event afterpoints and live DJs, and reports that Moka often has daytime live DJs while people get coffee. This strengthens Moka as the first filmed-session prospect, but screenshots or direct venue confirmation are still needed before public claims.
 - WHYLY has sourced evidence as a Pretoria/Gauteng dance music reference model, not a confirmed House Affairs partner.
 
 ---
@@ -87,7 +88,7 @@ status: active
 - [[03 - Audience & Community/Public Feedback Log|Public Feedback Log]] - public comments, requests, and audience signals.
 - [[06 - Events & Venues/Event Strategy|Event Strategy]] - progression from filmed sets to ticketed events.
 - [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]] - first-pass Pretoria venue shortlist, scoring criteria, and next actions.
-- [[06 - Events & Venues/Moka Social Club|Moka Social Club]] - founder-mentioned filmed-session prospect requiring direct verification.
+- [[06 - Events & Venues/Moka Social Club|Moka Social Club]] - strongest first filmed-session prospect; founder observation reports live-DJ activity, direct verification still required.
 - [[06 - Events & Venues/Billy Boys & Co|Billy Boys & Co]] - founder-mentioned hospitality gig prospect requiring direct verification.
 - [[06 - Events & Venues/Lucky Rodrigo|Lucky Rodrigo]] - founder-mentioned hospitality gig prospect requiring direct verification.
 - [[07 - Operations/Agentic Operations|Agentic Operations]] - AI and automation operating model.

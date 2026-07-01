@@ -106,3 +106,13 @@ This is the evidence index. Record what each source proves and what it does not 
 - **SAMPRA official FAQ:** https://compliance.sampra.org.za/FAQS/. Proves SAMPRA's public guidance around sound recording/music public-performance licensing and distinction from SAMRO. Does not determine a specific event's licence holder.
 - **YouTube official copyright pages:** https://www.youtube.com/howyoutubeworks/copyright/, https://support.google.com/youtube/answer/2797370, and https://support.google.com/youtube/answer/6013276. Prove YouTube's Content ID/copyright-claim mechanics. Do not guarantee any House Affairs upload outcome.
 - **City of Tshwane event compliance pages:** https://www.tshwane.gov.za/?page_id=1293 and https://www.tshwane.gov.za/?page_id=7717. Prove public City event compliance/JOC and event licence guidance retrieved by direct page fetch on 2026-07-01. Do not determine whether a specific small venue-hosted DJ night requires JOC/event licence handling.
+
+## 2026-07-01 - Connor Moka Social Club DJ Observation
+
+- **Type:** Founder/operator observation.
+- **Location:** Captured in [[Correspondence Log#2026-07-01 - Moka Social Club DJ observation update]].
+- **Reliability:** Primary for Connor's observed memory and venue lead prioritisation; not durable public evidence until screenshots, story highlights, posts, or direct venue confirmation are recorded.
+- **Used for:** [[06 - Events & Venues/Moka Social Club|Moka Social Club]], [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]], [[09 - Research & Intelligence/Pretoria Venue and Scene Research Sprint - 2026-07-01|Pretoria Venue and Scene Research Sprint - 2026-07-01]]
+- **What it proves:** Connor reports seeing Moka Social Club Instagram story posts where running events finish at Moka with live DJs, and reports that Moka often has active daytime live DJs while people get coffee.
+- **What it does not prove:** Current venue booking policy, House Affairs permission, filming permission, costs, capacity, exact frequency, licence coverage, sound setup, or terms.
+- **Evidence still needed:** Screenshot/post/story highlight archive, direct venue confirmation, or a venue conversation logged in [[Correspondence Log]].

@@ -72,3 +72,18 @@ Use this for important communication that affects direction, scope, business, co
 - **Tensions raised:** Public evidence can guide strategy, but venue fit, compliance responsibility, attendance, and economics remain unproven until direct verification.
 - **Affected workstreams:** [[06 - Events & Venues/Venue Pipeline]], [[09 - Research & Intelligence/Pretoria House Music Market]], [[09 - Research & Intelligence/Competitor and Inspiration Map]], [[08 - Finance & Legal/Legal and Compliance]]
 - **Follow-up owner:** Connor / venue research owner TBD.
+
+## 2026-07-01 - Moka Social Club DJ observation update
+
+- **Source:** Codex prompt.
+- **Participants:** Connor Cress and Codex.
+- **Summary:** Connor clarified from personal observation that Moka Social Club has hosted running events where people finish at Moka and there are live DJs, and that Moka often has active daytime live DJs while people get coffee and use the space as a social club.
+- **Key points:**
+  - This materially strengthens Moka as a first filmed-session prospect.
+  - Treat the update as founder/operator source material until screenshots, story highlights, posts, or direct venue confirmation are saved.
+  - Do not treat the observation as venue approval, House Affairs permission, pricing, capacity, or a confirmed booking route.
+- **Decisions created:** None.
+- **Open questions created:** None; existing [[Open Questions#OQ-005 - What venue names and locations are exact?|OQ-005]] and [[Open Questions#OQ-015 - Which first venue outreach format is approved?|OQ-015]] were updated.
+- **Tensions raised:** The team has strong internal knowledge that Moka hosts DJs, but ephemeral Instagram stories need durable evidence before public use.
+- **Affected workstreams:** [[06 - Events & Venues/Moka Social Club|Moka Social Club]], [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]], [[09 - Research & Intelligence/Pretoria Venue and Scene Research Sprint - 2026-07-01|Pretoria Venue and Scene Research Sprint - 2026-07-01]]
+- **Follow-up owner:** Connor / venue research owner TBD.

@@ -22,15 +22,21 @@ status: research
 - The official site confirms the Waterkloof address.
 - The site includes a subscription prompt, which suggests an existing audience/contact capture habit.
 
+## Founder / Operator Observations
+
+- Connor reports having seen Moka Social Club Instagram story posts showing running events where participants finish at Moka and the venue has live DJs.
+- Connor reports that Moka often has active live DJs during the day while people are getting coffee and using the venue as a social club.
+- These observations materially strengthen Moka's apparent music fit, but they are not yet captured as durable evidence in this repository. Save screenshots, story highlights, event posts, or direct venue confirmation before using this as a public claim.
+
 ## Assumptions
 
 - Moka may be brand-aligned for a polished daytime/golden-hour filmed session because of its Waterkloof location and community positioning.
-- Moka is not yet proven as a public DJ-night venue from the evidence reviewed.
+- Moka appears more likely to be DJ-compatible than the first desktop-only research suggested, based on Connor's observed story posts and venue activity.
 
 ## Fit Assessment
 
-- **Music fit:** Unknown. Public evidence does not prove regular DJ programming.
-- **Audience fit:** Medium. Coffee/social/community positioning could overlap with an early House Affairs lifestyle audience.
+- **Music fit:** Medium to high. Connor has observed live DJ activity; direct venue confirmation is still needed.
+- **Audience fit:** High. Coffee/social/community positioning and running-event activity could overlap with an early House Affairs lifestyle audience.
 - **Capacity:** Unknown.
 - **Sound/DJ setup:** Unknown.
 - **Filming fit:** Medium to high if permission, background music, and customer privacy can be controlled.
@@ -41,24 +47,25 @@ status: research
 
 | Criterion | Score | Notes |
 |---|---:|---|
-| Music fit | 2/5 | No verified DJ-night evidence. |
-| Audience fit | 4/5 | Strong social/community positioning. |
+| Music fit | 4/5 | Founder/operator observation indicates live DJ activity; durable evidence and direct confirmation still needed. |
+| Audience fit | 4/5 | Strong social/community positioning, with reported running-event activity. |
 | Location/logistics | 4/5 | Official Waterkloof address confirmed. |
-| DJ/sound/filming suitability | 3/5 | Good candidate for filming, but setup unknown. |
-| Evidence of event demand | 2/5 | Events nav exists; specific music event evidence not verified. |
+| DJ/sound/filming suitability | 4/5 | Reported active live DJs suggest basic suitability, but setup and permissions remain unknown. |
+| Evidence of event demand | 3/5 | Events nav exists and Connor reports running/DJ story posts; durable examples still needed. |
 | Approachability | 4/5 | Contact form and community language suggest approachable first conversation. |
 | Economics | 2/5 | No pricing, fee, or revenue-share evidence. |
 | Compliance risk | 3/5 | Lower if private/closed filming; higher for public DJ event. |
 
 ## Recommendation
 
-Treat Moka as a first filmed-session or low-volume social activation prospect, not as a confirmed DJ-night venue. The first ask should be permission for a controlled pre-open or closed-hours recorded session, not a ticketed night.
+Treat Moka as the strongest first filmed-session prospect. Connor's observations suggest Moka is already comfortable with live DJs in a daytime/social-club context, so the first ask can be framed around a controlled House Affairs filmed session that fits an existing venue behavior. Do not treat this as venue approval, a booking path, or permission until Moka confirms it directly.
 
 ## Evidence Reviewed
 
 - Official website, retrieved 2026-07-01: https://www.mokasocialclub.co.za/
 - Official contact page, retrieved 2026-07-01: https://www.mokasocialclub.co.za/pages/contact
 - Official Instagram discovery URL, not authenticated by account access: https://www.instagram.com/mokasocialclub/
+- Connor Cress founder/operator observation, recorded 2026-07-01: Instagram stories reportedly showed running events ending at Moka with live DJs, plus active daytime live DJs at the venue.
 
 ## Outreach Notes
 
@@ -72,3 +79,4 @@ Treat Moka as a first filmed-session or low-volume social activation prospect, n
 - Is there a quiet time window for a recorded session?
 - Who approves collaborations and venue use?
 - Would customers/staff be present, and would releases be required?
+- Can Connor or the team save screenshots/highlights/posts that show Moka's running events and daytime live DJs?

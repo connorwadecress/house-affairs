@@ -53,8 +53,8 @@ Use this note for unknowns that affect decisions. Do not guess these in strategy
 - **Owner:** Venue research owner, TBD.
 - **Opened:** 2026-07-01
 - **Why it matters:** Outreach, partnership research, public mentions, and event planning.
-- **Current best answer:** First desktop research verified several details: Moka Social Club is at 378 Milner St, Waterkloof, Pretoria; Billy Boys & Co is at Forest Walk, 27 Maroelana St, Hazelwood, Pretoria based on its official public site bundle; Lucky Rodrigo Restaurant & Bar is at c/o The Hillside Street and Alpine Way, Lynnwood, Pretoria. These are venue identity/location facts only, not partnership or event-availability facts.
-- **Evidence needed:** Direct venue confirmation of contact owners, existing DJ/event policies, filming permission, sound constraints, costs, and availability.
+- **Current best answer:** First desktop research verified several details: Moka Social Club is at 378 Milner St, Waterkloof, Pretoria; Billy Boys & Co is at Forest Walk, 27 Maroelana St, Hazelwood, Pretoria based on its official public site bundle; Lucky Rodrigo Restaurant & Bar is at c/o The Hillside Street and Alpine Way, Lynnwood, Pretoria. Connor later reported seeing Moka Instagram stories with running-event afterpoints and live DJs, plus regular daytime live DJs. These are venue identity/location facts plus founder/operator observations, not partnership or event-availability facts.
+- **Evidence needed:** Direct venue confirmation of contact owners, existing DJ/event policies, filming permission, sound constraints, costs, and availability. For Moka specifically, save screenshots/highlights/posts or direct confirmation of running-event/live-DJ activity.
 - **Affected notes:** [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]]
 - **Status:** Partially answered; still open for event-specific details.
 
@@ -153,7 +153,7 @@ Use this note for unknowns that affect decisions. Do not guess these in strategy
 - **Owner:** Connor / founding team.
 - **Opened:** 2026-07-01
 - **Why it matters:** Outreach wording and target venue choice depend on whether House Affairs is asking for a filmed session, a low-risk DJ slot, a recurring night, or a ticketed event.
-- **Current best answer:** Research recommends a filmed-session ask for Moka Social Club and a low-risk venue-hosted DJ-slot ask for Lucky Rodrigo or Billy Boys, but this has not been approved by the founding team.
+- **Current best answer:** Research recommends a filmed-session ask for Moka Social Club and a low-risk venue-hosted DJ-slot ask for Lucky Rodrigo or Billy Boys. Connor's later observation of Moka live-DJ activity strengthens Moka as the first filmed-session target, but the exact ask has not been approved by the founding team.
 - **Evidence needed:** Founder/team decision on first outreach objective, owner, proof links, date window, and what House Affairs is prepared to provide.
 - **Affected notes:** [[06 - Events & Venues/Moka Social Club|Moka Social Club]], [[06 - Events & Venues/Lucky Rodrigo|Lucky Rodrigo]], [[06 - Events & Venues/Billy Boys & Co|Billy Boys & Co]], [[06 - Events & Venues/Partnership Outreach|Partnership Outreach]]
 - **Status:** Open
