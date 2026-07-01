@@ -26,6 +26,16 @@ House Affairs is a Pretoria house music collective creating recorded sessions, c
 
 "Modern house music. Real connections. Sessions - Events - Community"
 
+## YouTube About-Derived Positioning
+
+Source: [[04 - Content & Media/YouTube Snapshot - 2026-07-01]]
+
+- Community-driven electronic music movement.
+- Founded in Pretoria, South Africa.
+- Focused on modern house music culture.
+- Built around curated sounds, DJ sets, live recordings, artist showcases, event content, and the House Affairs movement.
+- Uses "Get Your Affairs In Order" as public call-to-action language.
+
 ## Brand Signals
 
 - Pretoria-rooted.

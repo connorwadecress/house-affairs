@@ -16,7 +16,8 @@ status: draft
 
 - **Why now:** Events and venue partnerships need evidence of demand.
 - **Success condition:** Measurable engagement, returning viewers, followers, comments, DMs, signups, or attendance intent.
-- **Evidence needed:** YouTube analytics, Instagram insights, mailing list/signups, qualitative feedback.
+- **Current evidence:** First public YouTube snapshot captured 27 subscribers, 370 total public views across 3 visible videos, 44 likes, and 23 extracted comments/replies. Source: [[04 - Content & Media/YouTube Snapshot - 2026-07-01]].
+- **Evidence still needed:** YouTube Studio analytics, Instagram insights, mailing list/signups, qualitative feedback beyond early friendly-network comments.
 
 ## Objective 3 - Build a Pretoria Venue Pipeline
 

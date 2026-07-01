@@ -31,3 +31,14 @@ These are starting hypotheses. They need research and platform data.
 - Email or WhatsApp signup intent.
 - Event attendance intent.
 - Qualitative feedback after each session.
+
+## First Public Signals
+
+Source: [[04 - Content & Media/YouTube Snapshot - 2026-07-01]]
+
+- 27 public YouTube subscribers.
+- 370 public views across 3 visible videos.
+- 23 extracted public comments/replies.
+- Early comments appear mostly friendly-network and supporter driven.
+- One clear public production request exists: improve audio loudness/stereo clarity.
+- Repeat public supporters and contributors should be watched over time, without treating public commenters as a private customer database.

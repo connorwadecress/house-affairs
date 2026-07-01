@@ -20,6 +20,8 @@ Clear, confident, welcoming, and credible. The public voice should make people w
 - Modern house music. Real connections.
 - Sessions first, community always, events next.
 - Get your affairs in order.
+- Join the movement.
+- Carefully selected sounds that move people.
 
 ## Words and Phrases To Use Carefully
 
@@ -27,6 +29,7 @@ Clear, confident, welcoming, and credible. The public voice should make people w
 - "Venue" - long-term vision only, not current reality.
 - "Registered business" - do not publish details until verified.
 - "Weekly" - use only if cadence is current and provable.
+- "Movement" - useful and already present on YouTube, but should be backed by growing community proof over time.
 
 ## Raw Language Handling
 

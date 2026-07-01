@@ -19,6 +19,7 @@ This is a conceptual data model for future tooling. It is not a database schema.
 - Content asset.
 - Platform post.
 - Audience metric snapshot.
+- Waitlist lead.
 - Correspondence item.
 - Decision.
 - Open question.
@@ -36,6 +37,7 @@ This is a conceptual data model for future tooling. It is not a database schema.
 - Instagram link(s).
 - Production notes.
 - Analytics snapshot.
+- Public feedback snapshot.
 
 ### Venue
 
@@ -58,6 +60,31 @@ This is a conceptual data model for future tooling. It is not a database schema.
 - Ticketing/RSVP.
 - Compliance status.
 - Outcome.
+
+### Public Feedback Item
+
+- Source platform.
+- Source URL.
+- Video/session.
+- Public author handle.
+- Comment ID when available.
+- Date captured.
+- Feedback type.
+- Sentiment.
+- Actionability.
+- Summary.
+- Owner/status if it creates a task.
+
+### Waitlist Lead
+
+- Email.
+- Normalized email.
+- Joined timestamp.
+- Lead intent, if approved.
+- Source/referrer/UTM fields, if approved.
+- Consent status, if required.
+- Status, such as active, unsubscribed, duplicate, or imported, if required.
+- Device hash, IP hash, or user agent hash only if the team approves the privacy and abuse-prevention trade-off.
 
 ## Rule
 

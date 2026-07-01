@@ -22,11 +22,11 @@ status: active
 
 ## Current Status
 
-**Phase:** Foundation and operating-memory scaffold.
+**Phase:** Foundation, content intelligence, and operating-memory scaffold.
 
 **Last updated:** 2026-07-01
 
-**Current operating priority:** Build a reliable wiki and planning system so House Affairs can scale content, research, venues, partnerships, events, and agentic operations without losing context.
+**Current operating priority:** Build a reliable wiki and planning system, then use public content feedback and metrics to improve sessions, research, venues, partnerships, events, and agentic operations.
 
 **Known source facts:**
 
@@ -36,6 +36,7 @@ status: active
 - The current motion is weekly DJ streams/videos, with future audience-attended recordings and venue events.
 - Founder statement says the business is registered and the domain `house-affairs.org` is owned; registry/domain proof is not yet recorded.
 - Provided Instagram screenshot shows `houseaffairs.wav`, 2 posts, 27 followers, and a link to `youtube.com/@house.affairs` as of the screenshot.
+- Public YouTube snapshot on 2026-07-01 confirmed channel URL `https://www.youtube.com/@house.affairs`, channel ID `UCG7qrr_JjGbb8rN_tl38Zdg`, 27 subscribers, 3 visible videos, and 23 extracted public comments.
 
 ---
 
@@ -75,8 +76,12 @@ status: active
 
 - [[04 - Content & Media/Content Strategy|Content Strategy]] - weekly sessions and media engine.
 - [[04 - Content & Media/Weekly DJ Sets Workflow|Weekly DJ Sets Workflow]] - repeatable production workflow.
+- [[04 - Content & Media/YouTube Channel|YouTube Channel]] - public channel state and capture rules.
+- [[04 - Content & Media/YouTube Snapshot - 2026-07-01|YouTube Snapshot - 2026-07-01]] - first public YouTube metrics and feedback capture.
+- [[04 - Content & Media/YouTube Capture Workflow|YouTube Capture Workflow]] - repeatable channel/video/comment snapshot process.
 - [[04 - Content & Media/Location Ideas|Location Ideas]] - rooftop, sunset, koppie, hill, and scenic session backlog.
 - [[04 - Content & Media/Reference Creators|Reference Creators]] - inspirations to research.
+- [[03 - Audience & Community/Public Feedback Log|Public Feedback Log]] - public comments, requests, and audience signals.
 - [[06 - Events & Venues/Event Strategy|Event Strategy]] - progression from filmed sets to ticketed events.
 - [[06 - Events & Venues/Venue Pipeline|Venue Pipeline]] - Billy Boys, Mocha Club, Lucky Rodrigo's, and future venues to verify.
 - [[07 - Operations/Agentic Operations|Agentic Operations]] - AI and automation operating model.
@@ -86,6 +91,7 @@ status: active
 
 - [[10 - Product & Engineering/System Vision|System Vision]] - long-term technical and agentic system shape.
 - [[10 - Product & Engineering/Website Plan|Website Plan]] - domain and website planning.
+- [[10 - Product & Engineering/Public Website and Waitlist Blueprint|Public Website and Waitlist Blueprint]] - public site and owned waitlist engineering plan.
 - [[08 - Finance & Legal/Legal and Compliance|Legal and Compliance]] - registered business, events, music rights, and venue compliance questions.
 - [[11 - People & Team/Founding Team|Founding Team]] - team roles and known responsibilities.
 - [[11 - People & Team/DJ Roster|DJ Roster]] - roster and performer notes.
@@ -95,10 +101,11 @@ status: active
 ## Immediate Next Steps
 
 1. Verify business registration details and domain ownership, then update [[00 - Meta/Source Materials|Source Materials]].
-2. Confirm official handles, platform URLs, and access owners for Instagram, YouTube, and domain.
-3. Start a venue research pass for Pretoria house/electronic-friendly locations.
-4. Convert the current content process into a weekly production checklist with owners.
-5. Define the first 30-day operating cadence for content, research, social, and outreach.
+2. Investigate and improve YouTube audio quality after public feedback that Session 002 sounded muffled/mono.
+3. Confirm official handles, platform access owners, and analytics access for Instagram, YouTube, and domain.
+4. Resolve first website prerequisites: domain/DNS access, hosting/stack/database decision, waitlist privacy, analytics choice, and approved launch assets/copy.
+5. Start a venue research pass for Pretoria house/electronic-friendly locations.
+6. Establish a recurring YouTube/public-feedback capture cadence after each release.
 
 ---
 

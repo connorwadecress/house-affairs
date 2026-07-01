@@ -25,12 +25,12 @@ status: draft
 
 ## Phase 2 - Audience and Community Signal
 
-- **Status:** Not started as a measured workstream.
+- **Status:** Started with public YouTube snapshot.
 - **Why now:** Venue and event expansion should be backed by audience evidence.
 - **Owner:** TBD.
 - **Success condition:** House Affairs tracks followers, views, watch time, comments, DMs, email/signups, and attendance intent.
-- **Dependencies:** [[03 - Audience & Community/Community Strategy|Community Strategy]], [[10 - Product & Engineering/Data Model|Data Model]]
-- **Validation:** Monthly audience report.
+- **Dependencies:** [[03 - Audience & Community/Community Strategy|Community Strategy]], [[03 - Audience & Community/Public Feedback Log|Public Feedback Log]], [[10 - Product & Engineering/Data Model|Data Model]]
+- **Validation:** Monthly audience report plus dated public snapshots such as [[04 - Content & Media/YouTube Snapshot - 2026-07-01]].
 
 ## Phase 3 - Audience-Attended Recordings
 
